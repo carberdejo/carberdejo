@@ -95,25 +95,7 @@ class Skills extends SoftwareDeveloper {
   </tbody>
 </table>
 
-### Repositorios TOP
 
-
-<table>
-  <tr>
-    <td width="50%" style="border: 1px solid #ccc; padding: 15px; border-radius: 10px;" valign="top">
-      <h3>🔗 <a href="https://github.com/veroMoreno/react-url-shortener-front">React URL Shortener</a></h3>
-      <p><strong>Descripción:</strong> Aplicación para acortar URLs de forma rápida y sencilla.</p>
-      <p><strong>Tecnologías:</strong> React, Bootstrap, Axios</p>
-      <p><strong>📁 Estado:</strong> En desarrollo</p>
-    </td>
-    <td width="50%" style="border: 1px solid #ccc; padding: 15px; border-radius: 10px;" valign="top">
-      <h3>🥗 <a href="https://github.com/veroMoreno/mealplan-front">Meal Plan Front</a></h3>
-      <p><strong>Descripción:</strong> Interfaz intuitiva para planes de comida semanales.</p>
-      <p><strong>Tecnologías:</strong> React, Tailwind CSS</p>
-      <p><strong>📁 Estado:</strong> Proyecto terminado</p>
-    </td>
-  </tr>
-</table>
 
 
 
