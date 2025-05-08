@@ -1,9 +1,8 @@
 ## Hola 👋
-<p align="center">
-  <img src="https://github.com/carberdejo/carberdejo/blob/main/9a78ec88-1229-4ab5-8799-e58b662ecfa1.png" alt="Mi Foto" width="150" style="border-radius: 50%;" />
-</p>
 
-```js
+![](https://github.com/carberdejo/carberdejo/blob/main/ChatGPT%20Image%208%20may%202025%2C%2010_08_07%20a.m..png)
+<!--```js
+
 import SoftwareDeveloper from 'carberdejo';
 
 class Bio extends SoftwareDeveloper {
@@ -18,7 +17,7 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Next.js','Tailwind CSS'];
   librerias =  ['React']
 }
-```
+```-->
 
 ⭐️ From 
 
