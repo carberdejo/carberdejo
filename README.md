@@ -1,7 +1,7 @@
 ## Hola 👋
 
-![](https://github.com/carberdejo/carberdejo/blob/main/ChatGPT%20Image%208%20may%202025%2C%2010_08_07%20a.m..png)
-<!--```js
+<!--![](https://github.com/carberdejo/carberdejo/blob/main/ChatGPT%20Image%208%20may%202025%2C%2010_08_07%20a.m..png)-->
+```js
 
 import SoftwareDeveloper from 'carberdejo';
 
@@ -17,7 +17,7 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Next.js','Tailwind CSS'];
   librerias =  ['React']
 }
-```-->
+```
 
 ⭐️ From 
 
