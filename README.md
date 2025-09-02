@@ -13,7 +13,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'JAVA','C#'];
   databases  = ['Node','MySQL', 'MongoDB', 'SQLServer'];
-  frameworks = ['Next.js','Tailwind CSS'];
+  frameworks = ['Next.js','Spring boot','Express','React Native','ASP.NET core','Tailwind CSS'];
   librerias =  ['React']
 }
 ```
