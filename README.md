@@ -30,14 +30,6 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
-<h3>
-</h3> 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue">
-  <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
-</p>
 
 <h3>
  ★  Technologies
@@ -47,6 +39,9 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue">
+  <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
 </p>
 
 
