@@ -6,15 +6,15 @@ import SoftwareDeveloper from 'carberdejo';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Carlos Berdejo';
-  title    = 'Developer Full Stack';
+  title    = 'Desarrollador Backend';
   location = 'Lima, Perú';
 }
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'JAVA','C#'];
-  databases  = ['Node','MySQL', 'MongoDB', 'SQLServer'];
-  frameworks = ['Next.js','Spring boot','Express','React Native','ASP.NET core','Tailwind CSS'];
-  librerias =  ['React']
+  databases  = ['MySQL', 'MongoDB', 'SQLServer'];
+  frameworks = ['NodeJs','Express','Next.js','Spring boot','React Native','ASP.NET core'];
+  Cloud =  ['AWS']
 }
 ```
 
