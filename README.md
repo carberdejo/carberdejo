@@ -11,10 +11,10 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'JAVA','C#'];
+  languages  = ['JavaScript','TypeScript','JAVA','Python','C','C#'];
   databases  = ['MySQL', 'MongoDB', 'SQLServer'];
-  frameworks = ['NodeJs','Express','Next.js','Spring boot','React Native','ASP.NET core'];
-  Cloud =  ['AWS']
+  frameworks = ['NestJS','NodeJs','Next.js','Spring boot','React Native','Angular'];
+  Cloud =  ['AWS','Ansible','K8S','Azure']
 }
 ```
 
